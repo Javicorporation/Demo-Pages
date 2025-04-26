@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35931.197 d17.13
+VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo Pages", "Demo Pages\Demo Pages.csproj", "{75C352F5-F6EF-47B4-AB55-96105E62F59D}"
 EndProject
@@ -13,6 +13,7 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{75C352F5-F6EF-47B4-AB55-96105E62F59D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{75C352F5-F6EF-47B4-AB55-96105E62F59D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75C352F5-F6EF-47B4-AB55-96105E62F59D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
 		{75C352F5-F6EF-47B4-AB55-96105E62F59D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75C352F5-F6EF-47B4-AB55-96105E62F59D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
